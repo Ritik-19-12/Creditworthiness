@@ -41,7 +41,7 @@ Creditworthiness/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/creditworthiness-predictor.git
+git clone https://github.com/Ritik-19-12/Creditworthiness.git
 cd creditworthiness-predictor
 
 python -m venv venv
